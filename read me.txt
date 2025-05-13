@@ -1,0 +1,2 @@
+intel image classification dataset has been removed from the zip folder for storage. 
+please visit the following link to view the dataset https://www.kaggle.com/datasets/puneet6060/intel-image-classification
